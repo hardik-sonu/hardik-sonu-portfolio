@@ -1,4 +1,4 @@
-const SITE_URL = "https://example.com";
+const SITE_URL = "https://hardik-sonu-portfolio.vercel.app";
 
 export default function StructuredData() {
   const structuredData = {

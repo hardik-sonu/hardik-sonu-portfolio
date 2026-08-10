@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
    SITE CONFIGURATION
    ============================================================ */
 
-const SITE_URL = "https://example.com";
+const SITE_URL = "https://hardik-sonu-portfolio.vercel.app";
 
 const SITE_NAME = "Hardik Sonu";
 
